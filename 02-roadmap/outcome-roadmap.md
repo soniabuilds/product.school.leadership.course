@@ -1,25 +1,25 @@
-# Outcome Roadmap & Trade-off Memo
+# Outcome Roadmap & Trade-off Memo: Fable Growth
 
 > Module 2 · Turn Your Strategy into an Outcome Roadmap
 
 ## 1. Trade-off memo
 
-> **Rock 1:** _____
+> **Rock 1:** Add a daily streak feature to drive habit formation (supports KR1): Habits formed and maintained in 3 months tend to persist. Addresses retention issue directly and simply.
 >
-> **Rock 2:** _____
+> **Rock 2:** Build a content library: guided meditations, articles, audio (supports KR2): Creates stickiness of users with a new, deeper, beyond-crisis experience. Address customers who drop out post-crisis by expanding the offering to mental health and wellness development.
 >
-> **Rock 3:** _____
+> **Rock 3:** Build a web version (frequently requested in reviews) (supports KR3): Improves offering in a really easy way based on feedback from very engaged customers directly. Better digital core experience will increase their retention (hypothesis to test).
 >
-> **Hard no 1:** _____
+> **Hard no 1:** Localize the app into Spanish and Portuguese: This will likely increase sales, but we are addressing retention. It is very difficult to do translate mental health content into other languages, so this is a major investment for a team of 14. Not the focus for our strategy. Strategy focuses on new offering, not new markets.
 >
-> **Hard no 2:** _____
+> **Hard no 2:** Add Apple Watch integration: No evidence users are asking for it. Quite a big build, design, test. Would distract the team, while not likely going to make a difference to retention by expanding into new offering.
 >
-> **Hard no 3:** _____
+> **Hard no 3:** Introduce “Fable for Teams”, a B2B workplace wellbeing offer: Large project. It is not enough to have an offering for B2B, this requires GTM, sales, content strategy. This would distract our small team without driving retention. Strategy focuses on new offering, not new GTM strategy.
 
 ## 2. Outcome roadmap
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
+| **Now (0 to 3 mo)** | **Bet 1 (KR2):** We bet giving people a clear next goal at the moment their acute need fades will turn "I feel better, so I'm done" into "I want to keep going" for deeply engaged users reaching day 60 to 90; **Bet 2 (KR1):** We bet helping people turn a few minutes of daily practice into a routine they keep up after the crisis will make Fable part of normal life, not just hard times, for users who have finished their acute phase; **Bet 3 (KR3):** We bet connecting people with a small group of peers working towards the same goal will make them value Fable enough to pay for it, for deeply engaged free users approaching day 90 | Bet 1: Product, Content, Clinical advisory, Design; Bet 2: Product, Design, Engineering; Bet 3: Growth, Clinical advisory, Product | Bet 1: share of acute-phase finishers starting a pathway within 30 days moves from 0% to 15%, our first step towards 35%, and at least 50% of starters reach week 2; Bet 2: day 120 and day 180 retention beat a control group, and people who miss a day come back rather than churn; Bet 3: users in a peer group convert to premium at twice the rate of a matched control group, and at least 70% stay active in week 4 |
+| **Next (3 to 6 mo)** | **Bet 4 (KR1, KR2):** We bet offering a choice of goals to work towards next will keep people progressing after their first pathway ends, for users who finish their first pathway. *Comes after Now because Bet 1 tells us which kind of goal people start and finish*; **Bet 5 (KR1):** We bet meeting each person where they are each day, based on their own history, will make Fable feel more personal than any AI competitor, for post-acute users at risk of drifting away. *Comes after Now because it needs the daily routine from Bet 2 and enough history to personalise from*; **Bet 6 (KR3):** We bet making peer accountability available to every deeply engaged user, not just a test group, will lift premium conversion at scale, for deeply engaged free users. *Comes after Now because we only scale it if Bet 3 proves people will pay*; **Bet 7 (KR1, KR3):** We bet letting premium members keep up their practice wherever they are will make premium harder to give up, for premium members. *Comes after Now because we first need to know which experiences premium members value most*; **Bet 8 (KR1):** We bet welcoming people back into the progress they'd already made, when their next hard stretch hits, will turn a one-off rescue into a lasting relationship, for lapsed users who return. *Comes after Now because they need a working post-acute path to come back into* | Bet 4: Content, Clinical advisory; Bet 5: Product, Engineering, Clinical advisory; Bet 6: Growth, Engineering, Design; Bet 7: Engineering, Design; Bet 8: Growth, Product | Bet 4: at least 60% of people who finish a pathway start another within 14 days; Bet 5: users who get personalised daily prompts have higher day 120 retention than a control group, with no rise in safety flags; Bet 6: conversion at scale matches the Bet 3 test; Bet 7: premium cancellations fall among members who use Fable on more than one device; Bet 8: returning users reach a pathway at least twice as often as before |
+| **Later (6 to 12 mo)** (bets, not commitments) | **Bet 9:** We bet teaching skills drawn from CBT, person-centred and somatic approaches as everyday wellness tools will deepen the progress people feel, for premium members on pathways, once a regulatory review has cleared them; **Bet 10:** We bet a trusted handover to licensed therapy, when someone needs more than wellness support, will protect users and Fable's reputation as "the app that actually helped", for users whose needs go beyond our scope; **Bet 11 (KR1, KR3):** We bet showing people how far they've come over months will make premium feel worth keeping, for long-term premium members | Bet 9: Clinical advisory, Legal; Bet 10: Clinical advisory, Legal, Product; Bet 11: Product, Design, Engineering | Each bet is revisited at the quarterly review. It moves to Next only if the KRs are on track and budget or people free up. For Bet 11 specifically: premium members who view their progress record cancel less often than those who don't |
